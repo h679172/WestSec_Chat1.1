@@ -1,0 +1,1 @@
+C:\jdk-24\bin\java -jar westsec_chat.jar
